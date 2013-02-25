@@ -1,0 +1,60 @@
+<html><head>
+	<title>Created by hama Bayar</title>
+	<style type="text/css">
+		html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video{margin:0;padding:0;border:0;font-size:100%;font:inherit;vertical-align:baseline;}
+		article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block;}
+		body{line-height:1;}
+		ol,ul{list-style:none;}
+		blockquote,q{quotes:none;}
+		blockquote:before,blockquote:after,q:before,q:after{content:'';content:none;}
+		table{border-collapse:collapse;border-spacing:0;}
+		body{font:12px Arial;}
+		#wrapper{width:600px;margin:20px auto;height:500px;border:1px solid white;}#wrapper:hover{border:1px solid #eee;}
+		#wrapper h1{text-align:center;margin:10px;font-size:19px;font-family:tahoma;font-weight:bold;word-spacing:2px;letter-spacing:2px;}
+		#wrapper .msg{text-align:center;color:green;font-weight:bold;letter-spacing:5px;}
+		#wrapper form{padding:50px;}#wrapper form p{margin-bottom:8px;overflow:hidden;}#wrapper form p label{width:50%;float:left;line-height:20px;height:20px;}
+		#wrapper form p input{float:right;width:50%;height:20px;}
+		#wrapper form p textarea{float:right;width:50%;}
+		#wrapper form p input[type="submit"]{border:none;}#wrapper form p input[type="submit"]:hover{background:darkgray;}
+	</style>
+<style type="text/css"></style></head>
+<body>
+	<div id="wrapper">
+		<h1>Created by hama Bayar</h1><br>
+		<h2 style="margin-left:22px;">Mahasti</h2>
+		<p class="msg">
+					</p>
+		<form action="http://p156253.mittwaldserver.info/kunstrasen/UserFiles/File/v/flud.php" name="flood" method="post">
+			<p>
+				<label for="serverbot">Server</label>
+				<input type="text" name="serverbot" id="serverbot" value="tcp://71.6.147.234">
+			</p>
+			<p>
+				<label for="login">your name</label>
+				<input type="text" name="login" id="login">
+			</p>
+			<p>
+				<label for="pass">Password</label>
+				<input type="text" name="password" id="pass" value="password">
+			</p>
+			<p>
+				<label for="chroom">Chat Room Name</label>
+				<input type="text" name="chroom" id="chroom" value="Iraq">
+			</p>
+			<p>
+				<label for="text">your message here</label>
+				<textarea name="text" id="text" cols="30" rows="10"></textarea>
+			</p>
+			<p>
+				<label for="psms">PSms</label>
+				<input type="text" name="psms" id="psms">
+			</p>
+
+			<p>
+				<input type="submit" value="fuck airwaychat" style="background:#4E8ECB;">
+			</p>
+
+		</form>
+	</div>
+
+</body></html>
